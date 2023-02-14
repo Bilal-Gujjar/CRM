@@ -28,5 +28,5 @@ urlpatterns = [
     path("showform/", views.showform, name="showform"), 
     # Return the Form Data
     path("getform/", views.getform, name='getform'),
-    #add new Parms in Git
+    ## Return the Form Data
 ]  
